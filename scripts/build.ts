@@ -84,18 +84,18 @@ for (const set of sets) {
     `build/${name}/package.json`,
     {
       name,
-      publisher: 'antfu',
+      publisher: 'alyxz',
       version: pkg.version,
-      displayName: `${displayName} Product Icons`,
-      description: `${displayName} Product Icons for VS Code`,
+      displayName: `${displayName} Product Icons (tweaked)`,
+      description: `${displayName} Product Icons for VS Code (tweaked)`,
       icon: 'icon.png',
       categories: ['Themes'],
       engines: {
         vscode: pkg.engines.vscode,
       },
-      sponsor: {
-        url: 'https://github.com/sponsors/antfu',
-      },
+      // sponsor: {
+      //   url: 'https://github.com/sponsors/antfu',
+      // },
       license: 'MIT',
       keywords: ['icon', 'theme', 'product', 'product-icon-theme'],
       extensionKind: ['ui'],
@@ -110,13 +110,13 @@ for (const set of sets) {
       },
       repository: {
         type: 'git',
-        url: 'https://github.com/antfu/vscode-icons-carbon.git',
+        url: 'https://github.com/alecton4/vscode-icons-carbon.git',
       },
       bugs: {
-        url: 'https://github.com/antfu/vscode-icons-carbon/issues',
+        url: 'https://github.com/alecton4/vscode-icons-carbon/issues',
       },
       author: {
-        name: 'Anthony Fu',
+        name: 'Alyx Z',
       },
     },
     { spaces: 2 },
