@@ -110,10 +110,10 @@ for (const set of sets) {
       },
       repository: {
         type: 'git',
-        url: 'https://github.com/alecton4/vscode-icons-carbon.git',
+        url: 'https://github.com/alecton4/vscode-icons-carbon-tweaked.git',
       },
       bugs: {
-        url: 'https://github.com/alecton4/vscode-icons-carbon/issues',
+        url: 'https://github.com/alecton4/vscode-icons-carbon-tweaked/issues',
       },
       author: {
         name: 'Alyx Z',
