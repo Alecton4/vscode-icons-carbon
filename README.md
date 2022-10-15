@@ -20,7 +20,7 @@ Yet Another <a href="https://code.visualstudio.com/api/extension-guides/product-
 <img src="https://github.com/alecton4/vscode-icons-carbon/blob/main/preview.png?raw=true"/>
 </p>
 
-[Product icon themes](https://code.visualstudio.com/api/extension-guides/product-icon-theme) allow theme authors to customize the icons used in VS Code"s built-in views: all icons except file icons (covered by file icon themes) and icons contributed by extensions.
+[Product icon themes](https://code.visualstudio.com/api/extension-guides/product-icon-theme) allow theme authors to customize the icons used in VS Code's built-in views: all icons except file icons (covered by file icon themes) and icons contributed by extensions.
 
 ### Credits
 
