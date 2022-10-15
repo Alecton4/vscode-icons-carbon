@@ -385,7 +385,7 @@ export const sets: IconSet[] = [
       'codicon:symbol-null': 'carbon:circle-dash',
       'codicon:symbol-number': 'carbon:character-whole-number',
       'codicon:symbol-numeric': 'carbon:character-whole-number',
-      'codicon:symbol-object': 'carbon:block-storage',
+      'codicon:symbol-object': 'carbon:object-storage',
       // 'codicon:symbol-operator': 'carbon:',
       'codicon:symbol-package': 'carbon:delivery-parcel',
       'codicon:symbol-parameter': 'carbon:types',
