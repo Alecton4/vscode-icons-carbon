@@ -103,7 +103,7 @@ for (const set of sets) {
         productIconThemes: [
           {
             id: name,
-            label: `${displayName} Icons`,
+            label: `${displayName} Icons (tweaked)`,
             path: `./${name}.json`,
           },
         ],
