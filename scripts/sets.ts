@@ -142,6 +142,7 @@ export const sets: IconSet[] = [
       // 'codicon:exclude': 'carbon:',
       // 'codicon:expand-all': 'carbon:',
       'codicon:export': 'carbon:export',
+      'codicon:extension-activation-time': 'carbon:time',
       'codicon:extensions': 'bi:puzzle',
       // 'codicon:eye': 'carbon:',
       // 'codicon:eye-closed': 'carbon:',

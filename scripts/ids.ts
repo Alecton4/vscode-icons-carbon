@@ -130,6 +130,7 @@ export type IDS =
 | 'exclude'
 | 'expand-all'
 | 'export'
+| 'extension-activation-time'
 | 'extensions'
 | 'eye'
 | 'eye-closed'
