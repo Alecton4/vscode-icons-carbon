@@ -1,12 +1,8 @@
 <p align="center">
-<img src="https://github.com/antfu/vscode-icons-carbon/blob/main/icon.png?raw=true" height="130" width="130"/>
+<img src="https://github.com/alecton4/vscode-icons-carbon/blob/main/icon.png?raw=true" height="130" width="130"/>
 </p>
 
 <h1 align="center">Carbon Icons (tweaked)</h1>
-
-<!-- <p align="center">
-This extension is a fork of <a href="https://marketplace.visualstudio.com/items?itemName=antfu.icons-carbon">Carbon Icons</a> by <a href="https://marketplace.visualstudio.com/publishers/antfu">Anthony Fu</a>. Thanks for the work!
-</p> -->
 
 <p align="center">
 Yet Another <a href="https://code.visualstudio.com/api/extension-guides/product-icon-theme">Product Icon Theme</a>
