@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/alecton4/vscode-icons-carbon/blob/main/icon.png?raw=true" height="130" width="130"/>
+<img src="https://github.com/alecton4/vscode-icons-carbon/blob/dev/icon.png?raw=true" height="130" width="130"/>
 </p>
 
 <h1 align="center">Carbon Icons (tweaked)</h1>
@@ -13,10 +13,61 @@ Yet Another <a href="https://code.visualstudio.com/api/extension-guides/product-
 </p>
 
 <p align="center">
-<img src="https://github.com/alecton4/vscode-icons-carbon/blob/main/preview.png?raw=true"/>
+<img src="https://github.com/alecton4/vscode-icons-carbon/blob/dev/preview.png?raw=true"/>
 </p>
 
-[Product icon themes](https://code.visualstudio.com/api/extension-guides/product-icon-theme) allow theme authors to customize the icons used in VS Code's built-in views: all icons except file icons (covered by file icon themes) and icons contributed by extensions.
+<!-- [Product icon themes](https://code.visualstudio.com/api/extension-guides/product-icon-theme) allow theme authors to customize the icons used in VS Code's built-in views: all icons except file icons (covered by file icon themes) and icons contributed by extensions. -->
+
+This tweaked version of [Carbon Icons](https://marketplace.visualstudio.com/items?itemName=antfu.icons-carbon) mainly focuses on the **symbol icons** and the **consistency** of the icon style.
+
+### Symbol Icons
+
+<details>
+  <summary>Table of Icons</summary>
+
+| Symbol ID             | Default | Carbon | Tweaked |
+| --------------------- | ------- | ------ | ------- |
+| symbol-array          |         |        |         |
+| symbol-boolean        |         |        |         |
+| symbol-class          |         |        |         |
+| symbol-color          |         |        |         |
+| symbol-constant       |         |        |         |
+| symbol-constructor    |         |        |         |
+| symbol-enum           |         |        |         |
+| symbol-enum-member    |         |        |         |
+| symbol-event          |         |        |         |
+| symbol-field          |         |        |         |
+| symbol-file           |         |        |         |
+| symbol-folder         |         |        |         |
+| symbol-function       |         |        |         |
+| symbol-interface      |         |        |         |
+| symbol-key            |         |        |         |
+| symbol-keyword        |         |        |         |
+| symbol-method         |         |        |         |
+| symbol-misc           |         |        |         |
+| symbol-module         |         |        |         |
+| symbol-namespace      |         |        |         |
+| symbol-null           |         |        |         |
+| symbol-number         |         |        |         |
+| symbol-numeric        |         |        |         |
+| symbol-object         |         |        |         |
+| symbol-operator       |         |        |         |
+| symbol-package        |         |        |         |
+| symbol-parameter      |         |        |         |
+| symbol-property       |         |        |         |
+| symbol-reference      |         |        |         |
+| symbol-ruler          |         |        |         |
+| symbol-snippet        |         |        |         |
+| symbol-string         |         |        |         |
+| symbol-struct         |         |        |         |
+| symbol-structure      |         |        |         |
+| symbol-text           |         |        |         |
+| symbol-type-parameter |         |        |         |
+| symbol-unit           |         |        |         |
+| symbol-value          |         |        |         |
+| symbol-variable       |         |        |         |
+
+</details>
 
 ### Credits
 
