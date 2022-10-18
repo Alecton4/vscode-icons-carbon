@@ -4,8 +4,12 @@
 
 <h1 align="center">Carbon Icons (tweaked)</h1>
 
-<p align="center">
+<!-- <p align="center">
 Yet Another <a href="https://code.visualstudio.com/api/extension-guides/product-icon-theme">Product Icon Theme</a>
+</p> -->
+
+<p align="center">
+This tweaked version of <a href="https://marketplace.visualstudio.com/items?itemName=antfu.icons-carbon">Carbon Icons</a> focuses on the <b>symbol icons</b> and the overall <b>icon consistency</b>.
 </p>
 
 <p align="center">
@@ -18,7 +22,7 @@ Yet Another <a href="https://code.visualstudio.com/api/extension-guides/product-
 
 <!-- [Product icon themes](https://code.visualstudio.com/api/extension-guides/product-icon-theme) allow theme authors to customize the icons used in VS Code's built-in views: all icons except file icons (covered by file icon themes) and icons contributed by extensions. -->
 
-This tweaked version of [Carbon Icons](https://marketplace.visualstudio.com/items?itemName=antfu.icons-carbon) mainly focuses on the **symbol icons** and the **consistency** of the icon style.
+<!-- This tweaked version of [Carbon Icons](https://marketplace.visualstudio.com/items?itemName=antfu.icons-carbon) mainly focuses on the **symbol icons** and the **consistency** of the icon style. -->
 
 ### Symbol Icons
 
