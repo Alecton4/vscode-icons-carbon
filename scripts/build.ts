@@ -97,7 +97,7 @@ for (const set of sets) {
       //   url: 'https://github.com/sponsors/antfu',
       // },
       license: 'MIT',
-      keywords: ['icon', 'theme', 'product', 'product-icon-theme'],
+      keywords: ['icon', 'theme', 'product', 'product-icon', 'product-icon-theme'],
       extensionKind: ['ui'],
       contributes: {
         productIconThemes: [
