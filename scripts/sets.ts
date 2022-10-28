@@ -399,7 +399,7 @@ export const sets: IconSet[] = [
       'codicon:symbol-structure': 'carbon:data-structured',
       'codicon:symbol-text': 'carbon:text-font',
       // 'codicon:symbol-type-parameter': 'carbon:',
-      'codicon:symbol-unit': 'carbon:ruler-alt',
+      'codicon:symbol-unit': 'carbon:ruler',
       'codicon:symbol-value': 'carbon:value-variable',
       'codicon:symbol-variable': 'carbon:cube',
       // 'codicon:sync': 'carbon:',
