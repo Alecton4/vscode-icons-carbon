@@ -377,7 +377,7 @@ export const sets: IconSet[] = [
       // 'codicon:symbol-folder': 'carbon:folder',
       'codicon:symbol-function': 'carbon:function-math',
       'codicon:symbol-interface': 'carbon:connect',
-      'codicon:symbol-key': 'carbon:character-upper-case',
+      'codicon:symbol-key': 'carbon:character-lower-case',
       // 'codicon:symbol-keyword': 'carbon:',
       'codicon:symbol-method': 'carbon:function',
       'codicon:symbol-misc': 'carbon:type-pattern',
