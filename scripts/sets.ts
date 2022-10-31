@@ -11,6 +11,14 @@ export const sets: IconSet[] = [
     name: 'icons-carbon-tweaked',
     display: 'Carbon',
     icons: {
+      // ================================
+      // built-in product icon identifier
+      // ================================
+      'codicon:explorer-view-icon': 'carbon:folder-details',
+      'codicon:extension-activation-time': 'carbon:time',
+      // ================================
+      // codicon
+      // ================================
       // 'codicon:account': 'carbon:',
       // 'codicon:activate-breakpoints': 'carbon:',
       // 'codicon:add': 'carbon:',
@@ -142,7 +150,6 @@ export const sets: IconSet[] = [
       // 'codicon:exclude': 'carbon:',
       // 'codicon:expand-all': 'carbon:',
       'codicon:export': 'carbon:export',
-      'codicon:extension-activation-time': 'carbon:time',
       'codicon:extensions': 'bi:puzzle',
       // 'codicon:eye': 'carbon:',
       // 'codicon:eye-closed': 'carbon:',

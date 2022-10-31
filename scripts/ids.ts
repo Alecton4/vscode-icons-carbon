@@ -1,4 +1,8 @@
 export type IDS =
+// built-in product icon identifier
+| 'explorer-view-icon'
+| 'extension-activation-time'
+// codicon
 | 'account'
 | 'activate-breakpoints'
 | 'add'
@@ -130,7 +134,6 @@ export type IDS =
 | 'exclude'
 | 'expand-all'
 | 'export'
-| 'extension-activation-time'
 | 'extensions'
 | 'eye'
 | 'eye-closed'
