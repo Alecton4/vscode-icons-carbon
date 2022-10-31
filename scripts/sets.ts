@@ -400,7 +400,7 @@ export const sets: IconSet[] = [
       'codicon:symbol-property': 'carbon:tools',
       // 'codicon:symbol-reference': 'carbon:',
       'codicon:symbol-ruler': 'carbon:ruler-alt',
-      'codicon:symbol-snippet': 'material-symbols:code-blocks-outline',
+      'codicon:symbol-snippet': 'bi:code-square',
       'codicon:symbol-string': 'carbon:character-upper-case',
       'codicon:symbol-struct': 'carbon:data-structured',
       'codicon:symbol-structure': 'carbon:data-structured',
