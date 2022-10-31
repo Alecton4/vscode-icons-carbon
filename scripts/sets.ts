@@ -182,7 +182,7 @@ export const sets: IconSet[] = [
       // 'codicon:gather': 'carbon:',
       'codicon:gear': 'carbon:settings',
       'codicon:gift': 'carbon:gift',
-      'codicon:gist': 'carbon:script',
+      // 'codicon:gist': 'carbon:',
       // 'codicon:gist-fork': 'carbon:',
       // 'codicon:gist-new': 'carbon:',
       'codicon:gist-private': 'carbon:locked',
