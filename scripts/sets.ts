@@ -358,7 +358,7 @@ export const sets: IconSet[] = [
       'codicon:sign-out': 'carbon:logout',
       'codicon:smiley': 'carbon:face-satisfied',
       // 'codicon:sort-precedence': 'carbon:',
-      'codicon:source-control': 'carbon:branch',
+      // 'codicon:source-control': 'carbon:',
       'codicon:split-horizontal': 'bi:vr',
       'codicon:split-vertical': 'bi:hr',
       // 'codicon:squirrel': 'carbon:',
