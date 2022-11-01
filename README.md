@@ -128,7 +128,7 @@ Ported from [Carbon Icons](https://github.com/antfu/vscode-icons-carbon) by [@an
 
 - [Bootstrap Icons](https://github.com/twbs/icons) by The Bootstrap Authors licensed under [MIT](https://github.com/twbs/icons/blob/main/LICENSE.md).
 - [Carbon Icons](https://github.com/carbon-design-system/carbon/tree/main/packages/icons) by IBM licensed under [Apache License 2.0](https://github.com/carbon-design-system/carbon/blob/main/LICENSE).
-- [Material Design Icons](https://github.com/Templarian/MaterialDesign) by Austin Andrews licensed under [Apache 2.0](https://github.com/Templarian/MaterialDesign/blob/master/LICENSE).
-- [Material Symbols](https://github.com/google/material-design-icons) by Google licensed under [Apache 2.0](https://github.com/google/material-design-icons/blob/master/LICENSE).
+<!-- - [Material Design Icons](https://github.com/Templarian/MaterialDesign) by Austin Andrews licensed under [Apache 2.0](https://github.com/Templarian/MaterialDesign/blob/master/LICENSE). -->
+<!-- - [Material Symbols](https://github.com/google/material-design-icons) by Google licensed under [Apache 2.0](https://github.com/google/material-design-icons/blob/master/LICENSE). -->
 
 Source code licensed under MIT.
