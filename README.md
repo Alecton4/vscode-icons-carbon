@@ -4,10 +4,6 @@
 
 <h1 align="center">Carbon Icons (tweaked)</h1>
 
-<!-- <p align="center">
-Yet Another <a href="https://code.visualstudio.com/api/extension-guides/product-icon-theme">Product Icon Theme</a>
-</p> -->
-
 <p align="center">
 This tweaked version of <a href="https://marketplace.visualstudio.com/items?itemName=antfu.icons-carbon">Carbon Icons</a> focuses on the <b>symbol icons</b> and the overall <b>icon consistency</b>.
 </p>
@@ -20,13 +16,9 @@ This tweaked version of <a href="https://marketplace.visualstudio.com/items?item
 <img src="https://github.com/alecton4/vscode-icons-carbon/blob/dev/preview.png?raw=true"/>
 </p>
 
-<!-- [Product icon themes](https://code.visualstudio.com/api/extension-guides/product-icon-theme) allow theme authors to customize the icons used in VS Code's built-in views: all icons except file icons (covered by file icon themes) and icons contributed by extensions. -->
-
-<!-- This tweaked version of [Carbon Icons](https://marketplace.visualstudio.com/items?itemName=antfu.icons-carbon) mainly focuses on the **symbol icons** and the **consistency** of the icon style. -->
-
 ### Symbol Icons
 
-This tweak mainly focuses on differentiating different symbols while keeping the symbols easy to recognize.
+This tweak focuses on differentiating different symbols while keeping the symbols easy to recognize. See the full list of symbol icons below.
 
 <details>
   <summary>Full List of Symbol Icons (TODO)</summary>
@@ -77,7 +69,7 @@ This tweak mainly focuses on differentiating different symbols while keeping the
 
 ### Icon Consistency
 
-This tweak will use the original VSCode icons as much as possible. Altered icons are selected to have a similar style to the original ones.
+This tweak uses the original VSCode icons as much as possible. Altered icons are selected to have a similar style to the original ones.
 
 ### Credits
 
