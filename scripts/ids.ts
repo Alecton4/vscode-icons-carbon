@@ -2,6 +2,7 @@ export type IDS =
 // built-in product icon identifier
 | 'explorer-view-icon'
 | 'extension-activation-time'
+| 'settings-view-bar-icon'
 // codicon
 | 'account'
 | 'activate-breakpoints'
