@@ -49,7 +49,7 @@ export const sets: IconSet[] = [
       // 'codicon:calendar': 'carbon:',
       // 'codicon:call-incoming': 'carbon:',
       // 'codicon:call-outgoing': 'carbon:',
-      // 'codicon:case-sensitive': 'carbon:', // TODO: same as tweaked "codicon:symbol-text"
+      // 'codicon:case-sensitive': 'carbon:', // WARN: same as tweaked "codicon:symbol-text"
       // 'codicon:check': 'carbon:',
       // 'codicon:check-all': 'carbon:',
       'codicon:checklist': 'carbon:list-checked',
@@ -86,10 +86,10 @@ export const sets: IconSet[] = [
       'codicon:comment-discussion': 'carbon:forum',
       'codicon:compare-changes': 'carbon:compare',
       'codicon:console': 'carbon:terminal',
-      // 'codicon:copy': 'carbon:', // WARNING: did not find "codicon:copy"
+      // 'codicon:copy': 'carbon:', // WARN: did not find "codicon:copy"
       'codicon:credit-card': 'carbon:purchase',
       // 'codicon:dash': 'carbon:',
-      'codicon:dashboard': 'carbon:meter', // TODO: consider "carbon:meter-alt"
+      'codicon:dashboard': 'carbon:meter-alt',
       // 'codicon:database': 'carbon:',
       // 'codicon:debug': 'carbon:',
       // 'codicon:debug-alt': 'carbon:',
@@ -453,7 +453,7 @@ export const sets: IconSet[] = [
       // 'codicon:vm-connect': 'carbon:',
       // 'codicon:vm-outline': 'carbon:',
       // 'codicon:vm-running': 'carbon:',
-      // 'codicon:wand': 'carbon:', // WARNING: did not find "codicon:wand"
+      // 'codicon:wand': 'carbon:', // WARN: did not find "codicon:wand"
       // 'codicon:warning': 'carbon:',
       // 'codicon:watch': 'carbon:', // TODO: consider "bi:watch"
       'codicon:whitespace': 'carbon:paragraph', // NOTE: original one is not good
