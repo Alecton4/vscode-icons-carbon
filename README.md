@@ -2,7 +2,7 @@
 <img src="https://github.com/alecton4/vscode-icons-carbon/blob/dev/icon.png?raw=true" height="130" width="130"/>
 </p>
 
-<h1 align="center">Carbon Icons (tweaked)</h1>
+<h1 align="center">Carbon Product Icons (tweaked)</h1>
 
 <p align="center">
 <a href="https://marketplace.visualstudio.com/items?itemName=alyxz.icons-carbon-tweaked" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/alyxz.icons-carbon-tweaked?label=Marketplace&logo=visual-studio-code" alt="Visual Studio Marketplace Version" /></a>
@@ -21,7 +21,7 @@ This tweaked version of <a href="https://marketplace.visualstudio.com/items?item
 This tweak focuses on differentiating different symbols while keeping the symbols easy to recognize. See the full list of symbol icons below.
 
 <details>
-  <summary>Full List of Symbol Icons (TODO)</summary>
+  <summary>Full List of Symbol Icons (to be filled)</summary>
 
 | Symbol ID             | Default | Carbon | Tweaked |
 | --------------------- | ------- | ------ | ------- |
