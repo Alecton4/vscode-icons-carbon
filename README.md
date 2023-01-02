@@ -21,7 +21,7 @@ This tweaked version of <a href="https://marketplace.visualstudio.com/items?item
 This tweak focuses on differentiating different symbols while keeping the symbols easy to recognize. See the full list of symbol icons below.
 
 <details>
-  <summary>Full List of Symbol Icons (to be filled)</summary>
+  <summary>Showcase of Symbol Icons (to be filled)</summary>
 
 | Symbol ID             | Default | Carbon | Tweaked |
 | --------------------- | ------- | ------ | ------- |
